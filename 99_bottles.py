@@ -22,4 +22,4 @@ def bottle_song(orig_num,num_bottles):
 
 	
 
-bottle_song(15,15)
+bottle_song()
